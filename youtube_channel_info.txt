@@ -3,4 +3,5 @@
 
 24 News Malayalam | Malayalam | https://www.twentyfournews.com/wp-content/themes/nextline_v3/images/logo-new.png |
 https://www.youtube.com/c/24OnLive/live
-Mathrubhumi News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png |https://www.youtube.com/user/TVMathrubhumi/live
+Mathrubhumi News | Malayalam | https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png |
+https://www.youtube.com/user/TVMathrubhumi/live
